@@ -2,12 +2,13 @@
 **NewsHub**
 - [NewsHub is a dynamic and responsive web application that provides the latest news updates in real time. Built using HTML, CSS, JavaScript, and React.js, NewsHub allows users to browse through different news categories, search for specific news articles, and enjoy a seamless user experience with clean and modern UI]
 
+**Table of Contents**
 
-
-
-
-
-
+-  Sports.
+-  Entretainment.
+-  Health.
+-  Business
+-  Technology
 
 
 
